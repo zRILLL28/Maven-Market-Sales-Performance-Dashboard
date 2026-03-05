@@ -40,10 +40,10 @@ The goal of this project is to build a dashboard that enables stakeholders to:
 
 KPI	Description	Value
 
-Current Month Transactions	Total transactions in the current month	18,325
-Current Month Profit	Total profit generated this month	$71,682
-Current Month Returns	Number of returned products	476
-Revenue vs Target	Performance compared to sales target	$120K
+| Current Month Transactions	Total transactions in the current month	| 18,325 |
+| Current Month Profit	Total profit generated this month |	$71,682 |
+| Current Month Returns	Number of returned products |	476 |
+| Revenue vs Target	Performance compared to sales target |	$120K |
 
 These KPIs allow decision makers to quickly evaluate overall business performance.
 ```````````````````````````````````````````````````````````````````
