@@ -161,28 +161,35 @@ This project uses the following tools:
 ## 📂 Repository Structure
 maven-market-sales-dashboard
 │
-├── dashboard
-│   └── Maven_Market_Dashboard.pbix
+├── Dashboard
+│   └── Maven_Market_Report.pbix
 │
-├── dataset
-│   └── maven_market_dataset.csv
+├── Maven Market Dataset
+│   └── MavenMarket_Calendar.csv
+│   └── MavenMarket_Customers.csv
+│   └── MavenMarket_Products.csv
+│   └── MavenMarket_Regions.csv
+│   └── MavenMarket_Returns_1997-1998.csv
+│   └── MavenMarket_Stores.csv
+│   └── MavenMarket_Transactions_1997.csv
+│   └── MavenMarket_Transactions_1998.csv
 │
-├── images
-│   └── dashboard.png
+├── Screenshots
+│   └── Reports.png
 │
 └── README.md
 ````````````````````````````````````````
-```````````````````````````````````````
+
 ## 🚀 How to Use
 
-Clone this repository
+* 1. Clone this repository
+```````````````````````````````````
+* 2. git clone https://github.com/zRILLL28/Maven-Market-Sales-Performance-Dashboard.git
+```````````````````````````````````
+* 3. Open the .pbix file using Power BI Desktop
 
-git clone https://github.com/zRILLL28/Maven-Market-Sales-Performance-Dashboard.git
+* 4. Interact with filters and visualizations to explore the data.
 
-Open the .pbix file using Power BI Desktop
-
-Interact with filters and visualizations to explore the data.
-````````````````````````````````````````
 ## 📚 Skills Demonstrated
 
 This project highlights several core skills expected from a Data Analyst:
