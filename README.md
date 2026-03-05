@@ -182,13 +182,13 @@ maven-market-sales-dashboard
 
 ## 🚀 How to Use
 
-* 1. Clone this repository
+1. Clone this repository
 ```````````````````````````````````
-* 2. git clone https://github.com/zRILLL28/Maven-Market-Sales-Performance-Dashboard.git
+2. git clone https://github.com/zRILLL28/Maven-Market-Sales-Performance-Dashboard.git
 ```````````````````````````````````
-* 3. Open the .pbix file using Power BI Desktop
+3. Open the .pbix file using Power BI Desktop
 
-* 4. Interact with filters and visualizations to explore the data.
+4. Interact with filters and visualizations to explore the data.
 
 ## 📚 Skills Demonstrated
 
